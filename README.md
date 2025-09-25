@@ -1,2 +1,2 @@
 # SharpInfoSys
-SharpInfoSys – An open-source C# WinForms information system template for building customizable desktop apps.
+SharpInfoSys – An open-source C# WinForms information system template with SQLite for building customizable desktop apps.
